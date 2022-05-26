@@ -36,7 +36,7 @@ http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/ds3aThu.jpg",Jamuna TV
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/0385Pju.jpg",Maasranga HD
-
+http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/0385Pju.jpg",Maasranga HD
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/4imblNY.jpg",Mohona TV
