@@ -157,6 +157,8 @@ http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TBBDXLU.png",T Sports HD
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TBBDXLU.png",T Sports HD
+http://103.136.200.246:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Lyog1HI.png",Ten Sports
 http://stream.amrbd.com:8082/Ten-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://en.m.wikipedia.org/wiki/Willow_(TV_channel)#/media/File%3AWillow_Cricket.PNG",Willow Sports
