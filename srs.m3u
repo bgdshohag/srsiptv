@@ -43,10 +43,12 @@ https://stream.rangdhanu.live/EkattorTV/index.m3u8?
 https://stream.rangdhanu.live/GaziTV/index.m3u8?
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kviJN1i.png",Independent
 https://stream.rangdhanu.live/IndependentTV/index.m3u8?
+http://103.55.144.46:80/hls/indepen.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/ds3aThu.jpg",Jamuna TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/0385Pju.jpg",Maasranga HD
 http://tv2.ebox.live:8080/live/maasranga.m3u8
+http://103.55.144.46:80/hls/masranga.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/4imblNY.jpg",Mohona TV
 https://stream.rangdhanu.live/MohonaTV/index.m3u8?
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",Movie Bangla TV
