@@ -43,7 +43,6 @@ http://103.159.4.38:9191/CH19-BD8/index.m3u8
 http://103.55.144.46:80/hls/nexus.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/K7b1Bbz.png",Gazi TV HD
 http://stream.accessnetbd.com:80/hls/sky3.m3u8
-http://103.55.144.46:80/hls/Gazi-TV.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kviJN1i.png",Independent
 https://stream.rangdhanu.live/IndependentTV/index.m3u8?
 http://103.55.144.46:80/hls/indepen.m3u8
